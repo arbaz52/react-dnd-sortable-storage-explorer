@@ -1,2 +1,0 @@
-- name: Deploy react to gh-pages
-uses: alainQtec/deploy-react-to-ghpages@1.0.0-beta.2        
